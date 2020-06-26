@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Longest Word'/>
+        <page name='Question Marks'/>
+        <page name='Find Intersection'/>
+        <page name='2 Sum'/>
+        <page name='LInked List, Queues, and Stacks'/>
+        <page name='Remove Duplicates'/>
+        <page name='Buy n Sell'/>
+        <page name='Rotate Array'/>
+        <page name='Contains Duplicate'/>
+        <page name='Single Number'/>
+        <page name='Plus 1'/>
+        <page name='Move 0&apos;s'/>
+        <page name='Asdf'/>
+    </pages>
+</playground>
