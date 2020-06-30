@@ -13,6 +13,8 @@
         <page name='Single Number'/>
         <page name='Plus 1'/>
         <page name='Move 0&apos;s'/>
-        <page name='Asdf'/>
+        <page name='Reverse Linked List'/>
+        <page name='Tree Inverse'/>
+        <page name='Tree Sort'/>
     </pages>
 </playground>
