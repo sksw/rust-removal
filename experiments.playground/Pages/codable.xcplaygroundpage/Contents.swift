@@ -80,3 +80,19 @@ print(myItem.name)
 print(myItem.businessNumber as Any)
 print(myItem.otherData?.owner as Any)
 
+struct Thing: Codable {
+    let value: Set<String>
+}
+
+let thing = Thing(value: Set(arrayLiteral: "asdf"))
+let encoded = try JSONEncoder().encode(thing)
+let json = String(data: encoded, encoding: .utf8)
+print(json)
+
+let raw = """
+{
+  "value": ["asdf", "asdf"]
+}
+"""
+let decoded = try JSONDecoder().decode(Thing.self, from: raw.data(using: .utf8)!)
+print(decoded)

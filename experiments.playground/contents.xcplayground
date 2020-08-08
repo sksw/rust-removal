@@ -4,5 +4,6 @@
         <page name='codable'/>
         <page name='Dynamic Typing'/>
         <page name='Protocol Extensions &amp; Defaults'/>
+        <page name='Property Wrappers'/>
     </pages>
 </playground>
