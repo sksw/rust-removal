@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='codable'/>
+        <page name='Codable'/>
+        <page name='Dictionary with Bad Entries'/>
+        <page name='Date Conversion'/>
         <page name='Dynamic Typing'/>
         <page name='Protocol Extensions &amp; Defaults'/>
         <page name='Property Wrappers'/>

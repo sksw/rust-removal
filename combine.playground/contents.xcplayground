@@ -3,6 +3,7 @@
     <pages>
         <page name='Useful Links'/>
         <page name='Stateful Observable'/>
-        <page name='Dematerialize and Materialize'/>
+        <page name='Dematerialize'/>
+        <page name='Dynamic Debounce'/>
     </pages>
 </playground>
